@@ -1,0 +1,392 @@
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\obj\Debug\ConnSQL.csprojAssemblyReference.cache
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\obj\Debug\ConnSQL.csproj.CoreCompileInputs.cache
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\ConnSQL.dll.config
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\ConnSQL.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\ConnSQL.pdb
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\csc.exe
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\csc.exe.config
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\csc.rsp
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\csi.exe
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\csi.exe.config
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\csi.rsp
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.AppContext.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Console.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.IO.Compression.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Net.Http.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.ValueTuple.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\vbc.exe
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\vbc.exe.config
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\vbc.rsp
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\VBCSCompiler.exe
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\BouncyCastle.Crypto.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\Google.Protobuf.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\K4os.Hash.xxHash.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\MySql.Data.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\MySql.Web.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Buffers.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Memory.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Numerics.Vectors.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Web.Helpers.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Web.Razor.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Web.WebPages.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Web.WebPages.Razor.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\Ubiety.Dns.Core.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\WebMatrix.Data.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\WebMatrix.WebData.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\ZstdNet.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\Google.Protobuf.pdb
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\Google.Protobuf.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\K4os.Hash.xxHash.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\MySql.Data.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\MySql.Web.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Buffers.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Memory.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Numerics.Vectors.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Web.Helpers.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Web.Razor.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Web.WebPages.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\System.Web.WebPages.Razor.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\WebMatrix.Data.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\WebMatrix.WebData.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\obj\Debug\ConnSQL.csproj.CopyComplete
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\obj\Debug\ConnSQL.dll
+C:\Users\janicki mateusz\source\repos\ConnSQL\ConnSQL\obj\Debug\ConnSQL.pdb
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\ConnSQL.dll.config
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\ConnSQL.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\ConnSQL.pdb
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\Google.Protobuf.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\K4os.Hash.xxHash.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\MySql.Data.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\MySql.Web.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Buffers.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Memory.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\Ubiety.Dns.Core.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\WebMatrix.Data.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\WebMatrix.WebData.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\ZstdNet.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\Google.Protobuf.pdb
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\Google.Protobuf.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\K4os.Hash.xxHash.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\MySql.Data.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\MySql.Web.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Buffers.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Memory.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\WebMatrix.Data.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\WebMatrix.WebData.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\obj\Debug\ConnSQL.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\obj\Debug\ConnSQL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\obj\Debug\ConnSQL.csproj.CopyComplete
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\obj\Debug\ConnSQL.dll
+C:\Users\admin\Desktop\ConnSQL\ConnSQL\obj\Debug\ConnSQL.pdb
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\ConnSQL.dll.config
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\ConnSQL.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\ConnSQL.pdb
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\Google.Protobuf.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\K4os.Hash.xxHash.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\MySql.Data.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\MySql.Web.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Buffers.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Memory.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\Ubiety.Dns.Core.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\WebMatrix.Data.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\WebMatrix.WebData.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\ZstdNet.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\Google.Protobuf.pdb
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\Google.Protobuf.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\K4os.Hash.xxHash.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\MySql.Data.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\MySql.Web.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Buffers.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Memory.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\WebMatrix.Data.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\WebMatrix.WebData.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\obj\Debug\ConnSQL.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\obj\Debug\ConnSQL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\obj\Debug\ConnSQL.csproj.CopyComplete
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\obj\Debug\ConnSQL.dll
+C:\Users\admin\Desktop\kk\ConnSQL\ConnSQL\obj\Debug\ConnSQL.pdb
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\ConnSQL.dll.config
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\ConnSQL.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\ConnSQL.pdb
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\Google.Protobuf.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\K4os.Hash.xxHash.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\MySql.Data.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\MySql.Web.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Buffers.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Memory.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\Ubiety.Dns.Core.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\WebMatrix.Data.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\WebMatrix.WebData.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\ZstdNet.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\Google.Protobuf.pdb
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\Google.Protobuf.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\K4os.Hash.xxHash.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\MySql.Data.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\MySql.Web.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Buffers.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Memory.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\WebMatrix.Data.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\WebMatrix.WebData.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\obj\Debug\ConnSQL.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\obj\Debug\ConnSQL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\obj\Debug\ConnSQL.csproj.CopyComplete
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\obj\Debug\ConnSQL.dll
+C:\Users\admin\Desktop\3p1\klasa3\koszi\Janicki Mateusz 3P12 - biblioteka mysql\ConnSQL\ConnSQL\obj\Debug\ConnSQL.pdb
